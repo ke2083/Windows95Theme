@@ -10,6 +10,12 @@ Requirements:
 ### Theme
 This will give you the wallpaper, icons and colour scheme.
 
+![Wallpaper](https://github.com/ke2083/Windows95Theme/blob/master/Wallpaper/Wallpaper.png?raw=true)
+![Recycle bin](https://raw.githubusercontent.com/ke2083/Windows95Theme/master/Icons/bin2_1_3l0_icon.ico)
+![My Computer](https://raw.githubusercontent.com/ke2083/Windows95Theme/master/Icons/mycomputer_1_G3M_icon.ico)
+![My Documents](https://raw.githubusercontent.com/ke2083/Windows95Theme/master/Icons/mydocuments_vlJ_icon.ico)
+![Network Neighbourhood](https://raw.githubusercontent.com/ke2083/Windows95Theme/master/Icons/network_1_jsM_icon.ico)
+
 1. Download/clone
 2. Copy the `Icons` folder to your %USERPROFILE% folder
 3. Put the wallpaper from `Wallpaper` into your %USERPROFILE% folder
@@ -27,6 +33,8 @@ This will give you the original Windows 95 sounds.
 
 ### Classic Shell
 This will update Classic Shell with a Windows 95-inspired start button and configure the start menu to look and feel like Windows 95.
+
+![Satrt Button](https://github.com/ke2083/Windows95Theme/blob/master/Icons/StartButton.png?raw=true)
 
 1. Install Classic Shell from http://classicshell.net 
 2. Import the settings from `Classic Shell\Menu Settings.xml`
